@@ -1,0 +1,6 @@
+{
+  "name": "ハッキング耐性シミュレーター",
+  "description": "最新の分散GPUクラスタによるパスワード解読耐性・エントロピー・辞書攻撃耐性をリアルタイム分析するサイバーセキュリティシミュレーター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
